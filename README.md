@@ -1,4 +1,4 @@
-# ParqueaderoX
+# Parqueadero X
 - IEEE 830
 - Propuesta tecnica
 - Mockup del software
