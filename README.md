@@ -4,3 +4,4 @@
 - Mockup del software
 - MER y MR
 - Trello
+Tecnologias utilizadas: Trello 
