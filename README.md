@@ -5,4 +5,6 @@
 - MER y MR
 - Trello
 # Tecnologias utilizadas: 
-- Trello 
+- Springboot
+# Tiempo desarrollo del proyecto 
+- 2 meses 
