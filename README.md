@@ -4,6 +4,7 @@
 - Mockup del software
 - MER y MR
 - Trello
+- Diccionario de datos
 # Tecnologias utilizadas: 
 - Springboot
 # Tiempo desarrollo del proyecto 
